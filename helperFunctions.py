@@ -1,12 +1,4 @@
-
-
-
-
-
-
-
-
-
+#Collection of all functions
 
 #package installs
 import numpy as np
